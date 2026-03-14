@@ -84,4 +84,4 @@ npm run dev
 - **Password**: `password123`
 
 ---
-*Created with ❤️ by the CoreInventory Development Team*
+*Created with ❤️ by the TechFusion Team*
